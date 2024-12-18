@@ -2,4 +2,3 @@ streamlit
 altair
 plotly.express
 pandas
-json
